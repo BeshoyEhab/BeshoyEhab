@@ -2,6 +2,11 @@
 ## Hello 👋 I'm Bishoy Ehab and this is my portfolio
 🔭 I’m currently working on a Game about time <br>👯 I’m looking to collaborate on any open source project I can collaborate on<br>🌱 I’m currently learning AI/ML and CyberSecurity and Game dev<br>💬 Ask me about: How are you? <br>     but don't ask me why your code run.<br>⚡ Fun fact: Python is the best
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bishoy_ehab) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61568153291574) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bishoyehab) 
