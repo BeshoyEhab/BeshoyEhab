@@ -20,10 +20,10 @@
 ### Skills
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bash-colored.svg" alt="Bash" width="36" height="36" />
+  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/Python-Dark.svg" alt="Python" width="36" height="36" />
+  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/CPP.svg" alt="C++" width="36" height="36" />
+  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/Java-Dark.svg" alt="Java" width="36" height="36" />
+  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/Bash-Dark.svg" alt="Bash" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" alt="Django" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/qt-colored.svg" alt="Qt" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="36" height="36" />
