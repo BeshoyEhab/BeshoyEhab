@@ -23,16 +23,7 @@
 ### Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=django" alt="Django" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=qt" alt="Qt" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=intellij" alt="IntelliJ IDEA" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,,bash,dotnet,django,qt,git,github,vscode,pycharm,clion,idea,rider,linux" width="36" height="36" />
 </p>
 
 ### Notable Projects
