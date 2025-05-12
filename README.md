@@ -31,9 +31,8 @@
   <img src="https://skillicons.dev/icons?i=qt" alt="Qt" width="36" height="36" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="36" height="36" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=intellij" alt="IntelliJ" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=intellij" alt="IntelliJ IDEA" width="36" height="36" />
   <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="36" height="36" />
 </p>
 
 ### Notable Projects
