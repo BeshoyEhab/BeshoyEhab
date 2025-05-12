@@ -26,7 +26,7 @@ I'm a passionate developer interested in creating impactful software solutions. 
 - [Chess Game](www.github.com/BeshoyEhab/Chess-Game) - This is also a chess made with Java and swing with a little MinMax to play with
 
 ## How to reach me
-- [LinkedIn](www.linkedin.com/in/bishoyehab)
+- LinkedIn: [Bishoy Ehab](www.linkedin.com/in/bishoyehab)
 - Email: beshoy5050ehab@gmail.com
 
 ## Fun fact
