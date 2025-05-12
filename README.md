@@ -1,7 +1,7 @@
 # Hi there, I'm Bishoy Ehab 👋
 
 ## About Me
-I'm a passionate developer interested in creating impactful software solutions. Welcome to my GitHub profile!
+I'm a passionate developer interested in creating impactful software solutions and creative Games. Welcome to my GitHub profile!
 
 ## What I'm working on
 - Currently developing exciting projects to expand my portfolio
