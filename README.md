@@ -23,7 +23,7 @@
 ### Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,,bash,dotnet,django,qt,git,github,vscode,pycharm,clion,idea,rider,linux" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,bash,dotnet,django,qt,git,github,vscode,pycharm,clion,idea,rider,linux"/>
 </p>
 
 ### Notable Projects
