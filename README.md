@@ -15,8 +15,10 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/BeshoyEhab/BeshoyEhab/output/github-snake.svg" />
 </picture>
 
-<div align=center> 
-  <img src="https://github-readme-stats.vercel.app/api?username=BeshoyEhab&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeshoyEhab&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/><br/>
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=BeshoyEhab&theme=dark&hide_border=false&include_all_commits=true&count_private=false&height=200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeshoyEhab&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&height=200"/>
+<br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=BeshoyEhab&theme=dark&hide_border=false"/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeshoyEhab&radius=16&theme=react&area=true&hide_border=false" width="100%" alt="Contribution Graph"/>
 </div>
