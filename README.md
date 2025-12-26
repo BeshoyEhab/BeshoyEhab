@@ -1,8 +1,12 @@
 ## Hello 👋 I'm Bishoy Ehab and this is my portfolio
 
-### About me 💫
+### About me
 
-🔭 I'm currently working on a Game about Chaos <br>👯 I'm looking to collaborate on any open source project I can collaborate on<br>🌱 I'm currently learning AI/ML and Game dev<br>💬 Ask me about: How are you? but don't ask me how your code run.<br>⚡ Fun fact: Python is the best
+- 🎮 Building a chaos-themed game with Godot
+- 🤖 Learning AI/ML and game development
+- 🔧 Creating CLI tools like [dot-man](https://github.com/BeshoyEhab/dot-man) and [pro-mgr](https://github.com/BeshoyEhab/pro-mgr)
+- 🐧 Linux enthusiast
+- 🤝 Open to collaborating on interesting projects
 
 ## 🌐 Socials:
 
