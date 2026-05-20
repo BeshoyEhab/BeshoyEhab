@@ -33,7 +33,7 @@
 | **Languages** | [![Languages](https://skillicons.dev/icons?i=py,cpp,java,bash)](https://skillicons.dev) |
 | **ML / Data** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
 | **Tools** | [![Tools](https://skillicons.dev/icons?i=git,linux,neovim)](https://skillicons.dev) |
-| **Game Dev** | [![GameDev](https://skillicons.dev/icons?i=godot)](https://skillicons.dev) |
+| **Game Dev** | [![GameDev](https://skillicons.dev/icons?i=godot)](https://skillicons.dev) ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ---
 
