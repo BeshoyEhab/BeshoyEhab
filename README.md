@@ -1,53 +1,64 @@
-## Hello 👋 I'm Bishoy Ehab and this is my portfolio
-
-### About me
-
-- 🎮 Building a chaos-themed game with Godot
-- 🤖 Learning AI/ML and game development
-- 🔧 Creating CLI tools like [dot-man](https://github.com/BeshoyEhab/dot-man) and [pro-mgr](https://github.com/BeshoyEhab/pro-mgr)
-- 🐧 Linux enthusiast
-- 🤝 Open to collaborating on interesting projects
-
-## 🌐 Socials:
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bishoy_ehab) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61568153291574) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bishoyehab) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)](https://leetcode.com/u/BishoyEhab/)
-
-# 💻 Tech Stack:
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-# 📊 GitHub Stats:
-
-## My Contribution Graph
-
-<picture>
+<!-- 🕹️ My contribution graph ate your dots -->
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BeshoyEhab/BeshoyEhab/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BeshoyEhab/BeshoyEhab/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/BeshoyEhab/BeshoyEhab/output/pacman-contribution-graph.svg">
-</picture>
+    <img alt="Pacman eating my contributions — and yes, I'm the ghost" src="https://raw.githubusercontent.com/BeshoyEhab/BeshoyEhab/output/pacman-contribution-graph.svg"/>
+  </picture>
+</p>
 
-<div align=center>
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=BeshoyEhab&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/> 
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeshoyEhab&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
-<br/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BeshoyEhab&theme=dark" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeshoyEhab&radius=16&theme=react&area=true&hide_border=false" width="100%" alt="Contribution Graph"/>
-</div>
+<h1 align="center">Hey, I'm Bishoy Ehab 👋</h1>
 
-## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=58A6FF&center=true&width=500&lines=CS+Student+%40+FCIS+Ain+Shams%2C+Cairo;AI%2FML+%7C+CLI+Tooling+%7C+Game+Dev;Building+things+on+Linux+%F0%9F%90%A7" alt="Typing SVG"/>
+  </a>
+</p>
 
-![](https://github-profile-trophy.vercel.app/?username=BeshoyEhab&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <a href="https://linkedin.com/in/bishoyehab">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/BishoyEhab/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06"/>
+  </a>
+</p>
 
-### ✍️ Random Dev Quote
+---
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **Languages** | [![Languages](https://skillicons.dev/icons?i=py,cpp,java,bash)](https://skillicons.dev) |
+| **ML / Data** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **Tools** | [![Tools](https://skillicons.dev/icons?i=git,linux,neovim)](https://skillicons.dev) |
+| **Game Dev** | [![GameDev](https://skillicons.dev/icons?i=godot)](https://skillicons.dev) |
+
+---
 
 ## 📌 Featured Projects
 
-| Project                                                            | Description                             |
-| ------------------------------------------------------------------ | --------------------------------------- |
-| [dot-man](https://github.com/BeshoyEhab/dot-man)                   | 🔧 A dotfiles manager CLI tool with TUI |
-| [pro-mgr](https://github.com/BeshoyEhab/pro-mgr)                   | 📁 Project manager for quick navigation |
-| [AIRoadmapPlanner](https://github.com/BeshoyEhab/AIRoadmapPlanner) | 🤖 AI-powered roadmap planning tool     |
-| [Chess-Game](https://github.com/BeshoyEhab/Chess-Game)             | ♟️ Chess game made by team 57           |
-| [Linux-Game](https://github.com/BeshoyEhab/Linux-Game)             | 🎮 A Linux-themed game                  |
+| Project | Description |
+|---|---|
+| [AIRoadmapPlanner](https://github.com/BeshoyEhab/AIRoadmapPlanner) | 🤖 AI-powered tool that generates personalized learning roadmaps |
+| [dot-man](https://github.com/BeshoyEhab/dot-man) | 🔧 Dotfiles manager with TUI — version-control your Linux config |
+| [pro-mgr](https://github.com/BeshoyEhab/pro-mgr) | 📁 CLI project navigator for quick workspace switching |
+| [Chess-Game](https://github.com/BeshoyEhab/Chess-Game) | ♟️ Full chess game built in Java with a team |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeshoyEhab&theme=github_dark" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://bishoy-github-readme-stats.vercel.app/api?username=BeshoyEhab&theme=dark&hide_border=true&show_icons=true&include_all_commits=true" height="160"/>
+  <img src="https://bishoy-github-readme-stats.vercel.app/api/top-langs/?username=BeshoyEhab&theme=dark&hide_border=true&layout=compact" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=BeshoyEhab&theme=dark&hide_border=true"/>
+</p>
