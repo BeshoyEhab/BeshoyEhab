@@ -1,0 +1,81 @@
+name: Rotate Hero Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  rotate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Pick random graph and update README
+        run: |
+          graphs=("pacman" "breakout" "snake")
+          pick=${graphs[$RANDOM % ${#graphs[@]}]}
+          echo "Selected: $pick"
+
+          case $pick in
+            pacman)
+              dark="https://raw.githubusercontent.com/BeshoyEhab/BeshoyEhab/output/pacman-contribution-graph-dark.svg"
+              light="https://raw.githubusercontent.com/BeshoyEhab/BeshoyEhab/output/pacman-contribution-graph.svg"
+              fallback="$light"
+              alt="Pacman eating my contributions — and yes, I'm the ghost"
+              ;;
+            breakout)
+              dark="https://raw.githubusercontent.com/BeshoyEhab/BeshoyEhab/output/breakout/breakout-dark.svg"
+              light="https://raw.githubusercontent.com/BeshoyEhab/BeshoyEhab/output/breakout/breakout-light.svg"
+              fallback="$light"
+              alt="Breakout Contribution Graph"
+              ;;
+            snake)
+              dark="https://raw.githubusercontent.com/BeshoyEhab/BeshoyEhab/output/github-snake-dark.svg"
+              light="https://raw.githubusercontent.com/BeshoyEhab/BeshoyEhab/output/github-snake.svg"
+              fallback="$light"
+              alt="Snake Contribution Graph"
+              ;;
+          esac
+
+          cat > hero_block <<EOF
+          <!-- 🕹️ My contribution graph ate your dots -->
+          <p align="center">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="$dark">
+              <source media="(prefers-color-scheme: light)" srcset="$light">
+              <img alt="$alt" src="$fallback"/>
+            </picture>
+          </p>
+          EOF
+
+          # Remove leading spaces from heredoc
+          sed -i 's/^          //' hero_block
+
+          # Replace everything before <h1 align="center"> with the new hero block
+          awk '
+            /<h1 align="center">/ {
+              while ((getline line < "hero_block") > 0) print line
+              close("hero_block")
+              found=1
+            }
+            !found { next }
+            { print }
+          ' README.md > README.md.tmp && mv README.md.tmp README.md
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push
+        run: |
+          git add README.md
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "chore: rotate hero contribution graph [skip ci]"
+          git push
