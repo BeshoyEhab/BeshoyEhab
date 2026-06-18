@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/BishoyEhab/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06"/>
+    <img src="https://img.shields.io/badge/LeetCode-000000.svg?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06"/>
   </a>
   <a href="https://discord.gg/bishoy_ehab">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -76,7 +76,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bishoy_ehab)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61568153291574)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bishoyehab)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)](https://leetcode.com/u/BishoyEhab/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000.svg?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)](https://leetcode.com/u/BishoyEhab/)
 
 ---
 
