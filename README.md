@@ -1,9 +1,9 @@
 <!-- 🕹️ My contribution graph ate your dots -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BeshoyEhab/BeshoyEhab/output/breakout/breakout-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BeshoyEhab/BeshoyEhab/output/breakout/breakout-light.svg">
-    <img alt="Breakout Contribution Graph" src="https://raw.githubusercontent.com/BeshoyEhab/BeshoyEhab/output/breakout/breakout-light.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BeshoyEhab/BeshoyEhab/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BeshoyEhab/BeshoyEhab/output/github-snake.svg">
+    <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/BeshoyEhab/BeshoyEhab/output/github-snake.svg"/>
   </picture>
 </p>
 <h1 align="center">Hey, I'm Bishoy Ehab 👋</h1>
