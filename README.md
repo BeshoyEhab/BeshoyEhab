@@ -1,9 +1,9 @@
 <!-- 🕹️ My contribution graph ate your dots -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BeshoyEhab/BeshoyEhab/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BeshoyEhab/BeshoyEhab/output/pacman-contribution-graph.svg">
-    <img alt="Pacman eating my contributions — and yes, I'm the ghost" src="https://raw.githubusercontent.com/BeshoyEhab/BeshoyEhab/output/pacman-contribution-graph.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BeshoyEhab/BeshoyEhab/output/breakout/breakout-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BeshoyEhab/BeshoyEhab/output/breakout/breakout-light.svg">
+    <img alt="Breakout Contribution Graph" src="https://raw.githubusercontent.com/BeshoyEhab/BeshoyEhab/output/breakout/breakout-light.svg"/>
   </picture>
 </p>
 <h1 align="center">Hey, I'm Bishoy Ehab 👋</h1>
